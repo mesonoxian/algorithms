@@ -1,10 +1,10 @@
 {
-	"name": "Algorithm",
+	"name": "Algorithms",
 	"version": "0.0.0",
 	"description": "",
 	"engineStrict": true,
 	"engines": {
-		"node": ">= 8.9.0"
+		"node": ">= 10.6.0"
 	},
 	"devDependencies": {
 		"@types/jest": "~23.1.5",
